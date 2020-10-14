@@ -1,4 +1,6 @@
 <p align="center">
+This is a fork from the old https://github.com/fingerprintjs/fingerprintjs that now points to a different repository. Your automatic build might have broken because you can no longer find version 0.5.x. This fork has all that. For more info see https://github.com/fingerprintjs/fingerprintjs/issues/550
+
 <h2>fingerprintjs</h2>
 <br/>
 <a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
